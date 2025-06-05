@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 20dc933219eecd240a13333c36e9b62b
+  productGUID: f6a856c9d4c3be74fb69de0ef2e8a953
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -779,10 +779,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: ff1094a1-b081-4b52-ba36-2cb63859cf32
+  cloudProjectId: 7fa97655-71d1-4ef7-8196-e2185adf570d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: SkilledCrew
+  projectName: SkilledCrew 2025-06-05_05-48-43
   organizationId: ibrahim-2186950
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
