@@ -1,10 +1,37 @@
 fileFormatVersion: 2
-guid: e44ce041e270c7e4e8fa1fbbd9235491
+guid: 128e830f7542be84fba68e728faa1eab
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5336868216018247954
-    second: MafiaBoss_0
+      213: 1765628565404854809
+    second: MafiaBoss-removebg-preview_0
+  - first:
+      213: 6003605961761762195
+    second: MafiaBoss-removebg-preview_1
+  - first:
+      213: -6280052359844477846
+    second: MafiaBoss-removebg-preview_2
+  - first:
+      213: -1489607889569761080
+    second: MafiaBoss-removebg-preview_3
+  - first:
+      213: -3805395591754431475
+    second: MafiaBoss-removebg-preview_4
+  - first:
+      213: -846426073200529538
+    second: MafiaBoss-removebg-preview_5
+  - first:
+      213: -2933035118145992215
+    second: MafiaBoss-removebg-preview_6
+  - first:
+      213: 5430807325697450639
+    second: MafiaBoss-removebg-preview_7
+  - first:
+      213: 3751271411214129777
+    second: MafiaBoss-removebg-preview_8
+  - first:
+      213: -8553133990753793447
+    second: MafiaBoss-removebg-preview_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,133 +153,133 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MafiaBoss_0
+      name: MafiaBoss-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 59
-        y: 523
-        width: 263
-        height: 501
+        x: 35
+        y: 265
+        width: 120
+        height: 208
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9fcd731abacbd754896cf0488f835b3b
-      internalID: -1700186834
+      spriteID: 91a2d3653d5c08810800000000000000
+      internalID: 1765628565404854809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MafiaBoss_1
+      name: MafiaBoss-removebg-preview_1
       rect:
         serializedVersion: 2
-        x: 341
-        y: 523
-        width: 263
-        height: 501
+        x: 166
+        y: 265
+        width: 125
+        height: 208
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f0710d39f8facb346b19e262747b0cbf
-      internalID: -1452172891
+      spriteID: 39b2a3250d7115350800000000000000
+      internalID: 6003605961761762195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MafiaBoss_2
+      name: MafiaBoss-removebg-preview_3
       rect:
         serializedVersion: 2
-        x: 625
-        y: 523
-        width: 263
-        height: 501
+        x: 301
+        y: 265
+        width: 147
+        height: 208
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 199ebd30bb8d4d641bbf8b4bb6efa742
-      internalID: 1816780024
+      spriteID: 8c833974489d35be0800000000000000
+      internalID: -1489607889569761080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MafiaBoss_3
+      name: MafiaBoss-removebg-preview_6
       rect:
         serializedVersion: 2
-        x: 51
-        y: 9
-        width: 263
-        height: 501
+        x: 26
+        y: 26
+        width: 127
+        height: 207
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c2547199c5d1c0643bd11dc573db258c
-      internalID: 852385920
+      spriteID: 9e989259914cb47d0800000000000000
+      internalID: -2933035118145992215
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MafiaBoss_4
+      name: MafiaBoss-removebg-preview_7
       rect:
         serializedVersion: 2
-        x: 356
-        y: 4
-        width: 263
-        height: 501
+        x: 164
+        y: 26
+        width: 139
+        height: 207
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6121ec25ae2606444bac8e713e513ef9
-      internalID: -2059779725
+      spriteID: f8229c33d7a1e5b40800000000000000
+      internalID: 5430807325697450639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MafiaBoss_5
+      name: MafiaBoss-removebg-preview_8
       rect:
         serializedVersion: 2
-        x: 658
-        y: 5
-        width: 263
-        height: 501
+        x: 310
+        y: 26
+        width: 159
+        height: 207
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 868105f8df7ce5242b2f6a84941dcfa6
-      internalID: 33772014
+      spriteID: 17a1f7139713f0430800000000000000
+      internalID: 3751271411214129777
       vertices: []
       indices: 
       edges: []
@@ -261,7 +288,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1e9b15a204817304da102a893d9de04f
+    spriteID: 3c85dbbefca716847bd8835d912bd3be
     internalID: 0
     vertices: []
     indices: 
@@ -271,12 +298,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MafiaBoss_0: -1700186834
-      MafiaBoss_1: -1452172891
-      MafiaBoss_2: 1816780024
-      MafiaBoss_3: 852385920
-      MafiaBoss_4: -2059779725
-      MafiaBoss_5: 33772014
+      MafiaBoss-removebg-preview_0: 1765628565404854809
+      MafiaBoss-removebg-preview_1: 6003605961761762195
+      MafiaBoss-removebg-preview_3: -1489607889569761080
+      MafiaBoss-removebg-preview_6: -2933035118145992215
+      MafiaBoss-removebg-preview_7: 5430807325697450639
+      MafiaBoss-removebg-preview_8: 3751271411214129777
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
